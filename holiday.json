@@ -27,83 +27,111 @@
    "20210512": {
        "deskripsi": "Cuti Bersama Idul Fitri"
    },
+
    "20210513": {
        "deskripsi": "Hari Idul Fitri & Kenaikan Isa Almasih"
    },
+
    "20210514": {
        "deskripsi": "Hari Idul Fitri"
    },
+
    "20210526": {
        "deskripsi": "Hari Raya Waisak"
    },
+   
    "20210601": {
        "deskripsi": "Hari Lahir Pancasila"
    },
+
    "20210720": {
        "deskripsi": "Idul Adha (Lebaran Haji)"
    },
+
    "20210811": {
        "deskripsi": "Satu Muharam / Tahun Baru Hijriah"
    },
+
    "20210817": {
        "deskripsi": "Hari Proklamasi Kemerdekaan R.I."
    },
+
    "20211020": {
-       "deskripsi": "Maulid Nabi Muhammad"
+       "deskripsi": "Maulid Nabi Muhammad",
+       "status": "CONFIRMED"
    },
+
    "20211225": {
        "deskripsi": "Hari Raya Natal"
    },
+
    "20220101": {
        "deskripsi": "Hari Tahun Masehi"
    },
+
    "20220201": {
        "deskripsi": "Tahun Baru Imlek"
    },
+
    "20220228": {
        "deskripsi": "Isra Mikraj Nabi Muhammad"
    },
+
    "20220301": {
        "deskripsi": "Hari Suci Nyepi (Tahun Baru Saka)"
    },
+
    "20220415": {
        "deskripsi": "Wafat Isa Almasih"
    },
+
    "20220421": {
        "deskripsi": "Hari Kartini"
    },
+
    "20220501": {
        "deskripsi": "Hari Buruh Internasional / Pekerja"
    },
+
    "20220502": {
        "deskripsi": "Hari Idul Fitri"
    },
+
    "20220503": {
        "deskripsi": "Hari Idul Fitri"
    },
+
    "20220516": {
        "deskripsi": "Hari Raya Waisak"
    },
+
    "20220526": {
        "deskripsi": "Kenaikan Isa Al Masih"
    },
+
    "20220601": {
        "deskripsi": "Hari Lahir Pancasila"
    },
+
    "20220709": {
        "deskripsi": "Idul Adha (Lebaran Haji)"
    },
+
    "20220730": {
        "deskripsi": "Satu Muharam / Tahun Baru Hijriah"
    },
+
    "20220817": {
        "deskripsi": "Hari Proklamasi Kemerdekaan R.I."
    },
+
    "20221020": {
        "deskripsi": "Maulid Nabi Muhammad"
    },
+
    "20221225": {
        "deskripsi": "Hari Raya Natal"
    },
+
    "createdat": "20211023 11:07"
 }
